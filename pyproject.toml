@@ -1,0 +1,15 @@
+[project]
+name = "patrick-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "faiss-cpu>=1.13.0",
+    "google-genai>=1.47.0",
+    "numpy>=2.0.2",
+    "pypdf>=6.7.5",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.2.1",
+    "streamlit>=1.50.0",
+]
