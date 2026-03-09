@@ -110,8 +110,8 @@ patrick_project/
 1. **Clone the repository**
 
 ```bash
-git clone <repository-url>
-cd patrick_project
+git clone https://github.com/Pat200440/AI-Enterprise-Knowledge-Extractor.git
+cd AI-Enterprise-Knowledge-Extractor
 ```
 
 2. **Create a virtual environment**
