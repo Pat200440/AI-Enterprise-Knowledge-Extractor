@@ -380,7 +380,7 @@ L'utente può:
 Il progetto è organizzato in modo modulare. Ogni file ha una responsabilità specifica:
 
 ```
-patrick_project/
+AI-Enterprise-Knowledge-Extractor/
 │
 ├── app.py                    # 🎯 File principale - interfaccia Streamlit
 ├── config.py                 # ⚙️ Configurazione - API key e impostazioni
