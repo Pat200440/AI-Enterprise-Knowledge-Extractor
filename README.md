@@ -75,7 +75,7 @@ Perfect for querying company policies, technical documentation, research papers,
 ## 📂 Project Structure
 
 ```
-patrick_project/
+AI-Enterprise-Knowledge-Extractor/
 │
 ├── app.py                      # Main Streamlit application
 ├── config.py                   # Configuration and environment setup
